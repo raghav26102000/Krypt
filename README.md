@@ -27,7 +27,9 @@ Interact with the decentralized features provided by the app.
 Project Structure:
 
 /client
+
 /smart_contact.
+
 Acknowledgements:
 
 This project was inspired by the need to explore the potential of Web 3.0 technologies and create meaningful applications that leverage the decentralized nature of blockchain platforms.
