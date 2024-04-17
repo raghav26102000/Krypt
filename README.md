@@ -16,6 +16,7 @@ Ethereum Blockchain: Decentralized platform for executing smart contracts.
 Web3.js: JavaScript library for interacting with Ethereum blockchain.
 Truffle Suite: Development framework for Ethereum DApps and smart contracts.
 Metamask: Ethereum wallet extension used for interaction with blockchain applications.
+
 How to Use:
 
 Clone the repository to your local machine.
